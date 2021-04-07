@@ -38,18 +38,12 @@ We assure you, regular updates to the repository to cater all recent development
 
 ---
 ## Do let us know about your thoughts. 
-### You can connect with us on:
+### You can connect with us on:  
 
-<!---
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
--->
 
-[![website][webimagepath]][weblink]  
+
+[![website][webimagepath]][weblink]   
+   
 [![Blog][blogimagepath]][bloglink]
 [![LinkedIn][linkedInimagepath]][linkedInlink]
 [![Facebook][Facebookimagepath]][Facebooklink]
