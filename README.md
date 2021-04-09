@@ -32,6 +32,8 @@ We assure you, regular updates to the repository to cater all recent development
 | | | | |
 |`instance segmentation on images`|`Detectron2`|[Repository](computer_vision/segmentation/instance_segmentation)|
 | | | | |
+|`image super resolution`|`Autoencoder, Tensorflow2`|[Repository](computer_vision/image_super_resolution)|
+| | | | |
 
 #### _And More in the pipeline ..._
 
