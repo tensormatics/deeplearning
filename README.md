@@ -30,7 +30,7 @@ We assure you, regular updates to the repository to cater all recent development
 |-|-|-|
 |`semantic segmentation on images`|`Detectron2`|[Repository](computer_vision/segmentation/segmentation_Detectron2)|
 | | | | |
-|`instance segmentation on images`|`Detectron2`|[Repository](computer_vision/segmentation/instance_segmentation)|
+|`instance segmentation on images`|`Detectron2`|[Repository](computer_vision/instance_segmentation)|
 | | | | |
 |`image super resolution`|`Autoencoder, Tensorflow2`|[Repository](computer_vision/image_super_resolution)|
 | | | | |
