@@ -1,3 +1,0 @@
-# Instance Segmentation using Detectron2 
-
-## Coming Soon ...
